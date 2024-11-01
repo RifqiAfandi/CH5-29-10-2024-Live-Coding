@@ -1,0 +1,3 @@
+- Auth menginstall npm i jsonwebtoken
+- dilarang menggunakan ...user dsb
+- bcrypt untuk menjaga password
